@@ -15,6 +15,10 @@ font-size : 12px;
 /*==added by master branch==*/
 div{font-size : 12px;}
 h1{font-size: inherit;}
+
 p{font-size: 12px; color: #000;}
 img{border: none;}
 table{display:table-cell;}
+
+p{font-size: 12px;}
+
