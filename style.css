@@ -14,3 +14,4 @@ font-size : 12px;
 }
 /*==added by master branch==*/
 div{font-size : 12px;}
+h1{font-size: inherit;}
