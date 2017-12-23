@@ -1,6 +1,5 @@
 /hello-a.txt
 /for_ignore.txt
 /.htaccess
-/upload/
 assets/*
 temp/*
